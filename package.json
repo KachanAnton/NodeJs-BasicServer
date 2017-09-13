@@ -1,0 +1,12 @@
+{
+  "name": "http_sniffer",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "mime": "^1.4.0",
+    "url": "^0.11.0",
+    "util": "^0.10.3"
+  }
+}
